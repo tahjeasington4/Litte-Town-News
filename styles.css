@@ -12,10 +12,46 @@ nav {
 }
 
 .breakingNews {
-    margin-right: auto;
-    align-self: flex-start;
+    /* margin-left: auto; */
+    /* align-self: flex-start; */
+    justify-content: space-between;
 }
 .sports {
     margin-left: auto;
     align-self: flex-start;
 }
+.business {
+    margin-left: auto;
+    align-self: flex-start;
+}
+.politics {
+    margin-left: auto;
+    align-self: flex-start;
+}
+.opinion {
+    margin-left: auto;
+    align-self: flex-start;
+}
+.health {
+    margin-left: auto;
+    align-self: flex-start;
+}
+.scienceTech {
+    margin-left: auto;
+    align-self: flex-start;
+}
+.subscribe {
+    margin-left: auto;
+    align-self: flex-start;
+}
+.container {
+    display: flex;
+    
+
+}
+.c1 {
+    flex-direction: column;
+    display: flex;
+    
+}
+
