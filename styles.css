@@ -1,0 +1,21 @@
+header {
+    color: black;
+    border-bottom: solid;
+}
+h1 {
+    text-align: center
+}
+
+nav {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.breakingNews {
+    margin-right: auto;
+    align-self: flex-start;
+}
+.sports {
+    margin-left: auto;
+    align-self: flex-start;
+}
